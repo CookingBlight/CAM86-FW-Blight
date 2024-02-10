@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/default/debug/CAM86-FW-Blight.X.debug.elf">                 
+    <memory name="program">              
+      <units>bytes</units>                 
+      <length>32768</length>                 
+      <used>29888</used>                     
+      <free>2880</free>                     
+    </memory>                              
+    <memory name="data">                 
+      <units>bytes</units>                 
+      <length>2048</length>                 
+      <used>54</used>                     
+      <free>1994</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 
