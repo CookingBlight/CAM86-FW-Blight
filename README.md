@@ -8,7 +8,7 @@ Most of their work is shared on this huge [forum thread](http://www.astroclub.ki
 
 The current work is described [here](http://www.iceinspace.com.au/forum/showthread.php?t=146493).
 
-The source code for the camera low level library can be found [here](https://github.com/axsdenied/cam86_dll) while the ASCOM driver can be found [here](https://github.com/axsdenied/cam86_ASCOM).
+The source code for the camera low level library compatible with this firmware can be found [here](https://github.com/) while the compatible ASCOM driver can be found [here](https://github.com/).
 
 # See also
 [Information in Ukrainian](http://astroccd.org/)
@@ -29,5 +29,7 @@ Their code is shared on [Sergiy Vakulenko 's Github](https://github.com/vakulenk
 
 
 Luka Pravica - current modifications/extensions/customisations to the firmware, low-level driver and ASCOM driver
+
+Tommy Ramberg - Converted firmware to be compatible with the XC8 compiler in MPLABX.
 
 All derived work from this code must be kept free and opensource as governed by GPL v2 or later (see the included file COPYING).
